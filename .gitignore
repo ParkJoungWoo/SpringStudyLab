@@ -1,1 +1,8 @@
 /H2
+*.xml
+*.properties
+*.bat
+*.gradle
+*.bin
+*.lock
+*.idx
