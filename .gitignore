@@ -6,3 +6,6 @@
 *.bin
 *.lock
 *.idx
+*.class
+*.html
+*.iml
